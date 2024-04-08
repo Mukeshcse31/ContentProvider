@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+    <string-array name="prog_languages">
+        <item>Java</item>
+        <item>Kotlin</item>
+    </string-array>
+
+    <plurals name="counter">
+        <item quantity="one">%1$d point of total %2$d </item>
+        <item quantity="two">%1$d points of total %2$d </item>
+        <item quantity="other">%1$d pointers of total %2$d </item>
+    </plurals>
+</resources>
